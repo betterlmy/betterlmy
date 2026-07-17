@@ -1,5 +1,7 @@
 ## About Me
 
+[official](https://betterlmy.cn)
+
 - 😄 **Name:** Zane
 - 🍰 **Born in:** 199x
 - 🚹 **Gender:** XY
@@ -7,3 +9,4 @@
 - 💼 **Work Experience:** Leapmotor（2023 - Present）
 - 💻 **Main Programming Language:** Golang
 - 💬 **Interests:** 🎮
+
