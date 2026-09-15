@@ -1,7 +1,5 @@
 ## About Me
 
-[official](https://betterlmy.cn)
-
 - 😄 **Name:** Zane
 - 🍰 **Born in:** 199x
 - 🚹 **Gender:** XY
